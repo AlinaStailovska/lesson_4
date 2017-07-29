@@ -1,0 +1,53 @@
+div {
+	text-align:center;
+	margin-top: 300px;
+}
+
+span{
+	color: grey;
+	font-weight: bolder;
+}
+
+ul{
+	list-style-type: none;
+	display: inline-block;
+	padding:0;
+
+}
+
+li{
+	display: inline-block;
+    padding:5px;
+    margin:5px;	
+    border: 2px solid #B0E0E6;
+    background-color: #F0FFFF;
+    border-radius: 10%;
+}
+
+a{ 
+    text-decoration: none;
+    color: #00008B;
+    font-weight: bolder;
+}
+
+a:hover{
+	color: red;
+	
+	background-color: transparent;
+}
+
+	
+
+/*а такое нужно делать?*/
+/*a:active{ 
+    text-decoration: none;
+    color: red;
+    font-weight: bolder;
+}
+a:link{ 
+    text-decoration: none;
+    color: #00008B;
+    font-weight: bolder;
+}
+
+*/
